@@ -38,7 +38,7 @@ While building this project, I practiced and improved:
 This project is for educational purposes only and is not affiliated with YouTube or Google.
 
 ## Credits
-Inspired by YouTube’s homepage design.
+Inspired by YouTube’s homepage design
 
 
 # Output
