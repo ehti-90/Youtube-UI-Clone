@@ -42,4 +42,4 @@ Inspired by YouTube’s homepage design.
 
 
 # Output
-![alt text](thumbnail/output.png)
+![alt text](thumbnail/output1.png)
